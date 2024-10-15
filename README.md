@@ -1,1 +1,1 @@
-# cLDM-DCL
+This is the audio sample repository for the speech enhancement paper titled "CONDITIONAL LATENT DIFFUSION-BASED SPEECH ENHANCEMENT VIA DUAL CONTEXT LEARNING", which has been sumbitted to ICASSP 2025 for possible publication.
